@@ -1,0 +1,16 @@
+.footer {
+  text-align: center;
+  margin: 40px 0 0;
+  color: rgb(110, 105, 105);
+  background-color: rgba(204, 98, 139, 0.2);
+  padding: 20px;
+}
+
+.footer-icons {
+  color: rgb(204, 98, 139);
+  font-size: 32px;
+}
+
+.footer a {
+  color: rgb(204, 98, 139);
+}

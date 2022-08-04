@@ -1,0 +1,78 @@
+/* Your card CSS file */
+
+.card-category {
+  background-image: url("https://images.unsplash.com/photo-1536392706976-e486e2ba97af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80") ;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-size: 12px;
+  height: 180px;
+  border-radius: 5px;
+  text-shadow: 1px 1px 3px rgb(0 0 0 / 20%);
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  margin: 20px auto;
+}
+
+
+/* Card product */
+
+.card-product {
+  height:120px;
+  display: flex;
+  text-shadow: 1px 1px 3px rgb(0 0 0 / 20%);
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  margin: 20px auto;
+}
+
+.card-product img {
+  height: 100%;
+  width: 120px;
+}
+
+.card-product-info {
+  padding-left: 20px;
+  color: rgb(70, 70, 70)
+}
+
+.card-product-info h2 {
+  font-size: 16px;
+  margin: 20px 0 10px 0;
+}
+
+.card-product-info p {
+  font-size: 12px;
+  margin: 0;
+}
+
+
+/* Card-white */
+
+.cards {
+  display: flex;
+}
+
+.card-white {
+  width: 200px;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  margin: 20px auto;
+  color: rgb(110, 105, 105);
+  font-family: 'Poppins', sans-serif;
+  overflow: hidden;
+  padding: 20px;
+  text-align: center;
+  border-radius: 3px;;
+}
+
+.img-card-white {
+  width: 200px;
+  height: 200px;
+  border-radius: 3px;;
+}
+
+.card-white p {
+  font-size:smaller;
+}

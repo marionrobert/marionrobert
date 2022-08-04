@@ -1,0 +1,28 @@
+.banner {
+  background-image: url("https://www.hillspet.com/content/dam/cp-sites/hills/hills-pet/en_us/img/article/calico-cat-next-to-coffee-cup.jpg") ;
+  background-size: cover;
+  background-position: center;
+  color: rgb(204, 98, 139);
+  height: 300px;
+  padding: 100px 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.banner h1  {
+  font-size: 48px;
+  text-shadow: 1px 1px 3px rgb(0 0 0 / 80%);
+  margin: 0;
+}
+
+.banner p {
+  font-size: 24px;
+  text-shadow: 1px 1px 3px rgb(0 0 0 / 80%);
+}
+
+.banner a {
+  color: rgb(204, 98, 139);
+}
+
+.banner a:hover {
+  color: rgba(204, 98, 139, 0.6 );
+}
