@@ -1,14 +1,12 @@
-<h1 align="center" style="color: red"> Hello👋, I'm Marion 🙂 </h1>
+<h1 align="center"> Hello👋, I'm Marion 🙂 </h1>
 
 
 <p>🔎 I'm looking for a job as Junior Full Stack Web developper </p>
 <p>🌱 I'm currently improving my knowledge in JS, Ruby on Rails and Python </p>
 <p>📧 You can reach me at mrobert148@gmail.com </p>
 <br>
-<div style="display: wrapper;justify-content: space-around; color: red;">
-<p style="color: red">Here is my LinkedIn Profile</p>
-<a href="https://www.linkedin.com/in/marion-robert-/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Ruby" width="20px"></img></a>
-</div>
+<p>Here is my LinkedIn Profile <a href="https://www.linkedin.com/in/marion-robert-/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Ruby" width="20px"></img></a></p>
+
 
 
 <h3> Languages and Tools: </h3> 
