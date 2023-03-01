@@ -19,3 +19,4 @@
 <!-- <img align="left" alt="Motoko" width="50px" src="https://pbs.twimg.com/media/E7_cC-oXIAAXQ32?format=jpg&name=900x900"/> -->
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marionrobert)](https://github.com/anuraghazra/github-readme-stats)
