@@ -1,7 +1,7 @@
 <h1 align="center"> Hello👋, I'm Marion 🙂 </h1>
 
 
-<p>🔎 I'm looking for a job as Junior Full Stack Web developper </p>
+<p>🔎 I'm looking for a job as Full Stack Web developper </p>
 <p>🌱 I'm currently improving my knowledge in JS, React Ruby on Rails and Python </p>
 <p>📧 You can reach me at mrobert148@gmail.com </p>
 <br>
