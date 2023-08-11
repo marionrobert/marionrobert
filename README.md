@@ -22,8 +22,4 @@
   <img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"/>
 </a>
 
-<br>
-<br>
-<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marionrobert&show_icons=true&theme=monokai)
