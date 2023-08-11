@@ -2,7 +2,7 @@
 
 
 <p>🔎 I'm looking for a job as Full Stack Web developper </p>
-<p>🌱 I'm currently improving my knowledge in JS, React Ruby on Rails and Python </p>
+<p>🌱 I'm currently improving my knowledge in JS, React, Ruby on Rails and Python </p>
 <p>📧 You can reach me at mrobert148@gmail.com </p>
 <br>
 <p>Here is my LinkedIn Profile <a href="https://www.linkedin.com/in/marion-robert-/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Ruby" width="20px"></img></a></p>
