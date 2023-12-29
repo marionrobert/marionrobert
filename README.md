@@ -8,8 +8,8 @@
 <p>Here is my LinkedIn Profile <a href="https://www.linkedin.com/in/marion-robert-/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Ruby" width="20px"></img></a></p>
 
 
-
-<h3> Languages and Tools: </h3> 
+<div>
+  <h3> Languages and Tools: </h3> 
 <a href="https://www.ruby-lang.org/en/"><img align="left" alt="Ruby" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/></a>
 <a href="https://rubyonrails.org/"><img align="left" alt="Rails" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"/></a>
 <img align="left" alt="JS" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
@@ -19,9 +19,11 @@
   <img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"/>
 </a>
 
-<div>
- [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marionrobert)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
+
+
+ [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marionrobert)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 
 
