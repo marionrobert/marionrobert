@@ -19,6 +19,8 @@
   <img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"/>
 </a>
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marionrobert)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=marionrobert&show_icons=true&theme=tokyonight)]
+</div>
 
 
