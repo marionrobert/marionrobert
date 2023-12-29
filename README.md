@@ -23,7 +23,8 @@
 <br>
 
 
- [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marionrobert&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marionrobert&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marionrobert&show_icons=true&theme=darkl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
