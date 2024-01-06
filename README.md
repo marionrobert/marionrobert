@@ -1,4 +1,4 @@
-<h1 align="center"> Bonjour👋, je suis Marion 🙂 </h1>
+<h1 align="center"> Bonjour👋, moi c'est Marion 🙂 </h1>
 
 
 <p>🔎 Je recherche une job en tant que Full Stack web developpeuse</p>
