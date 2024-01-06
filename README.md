@@ -30,13 +30,7 @@
 
 
 
-
-
-
-
-
-
-<h1 align="center"> Hello👋, I'm Marion 🙂 </h1>
+<h1 align="center" margin="20px 0 0 0"> Hello👋, I'm Marion 🙂 </h1>
 
 
 <p>🔎 I'm looking for a job as Full Stack Web developper </p>
