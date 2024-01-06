@@ -15,7 +15,10 @@
 <img align="left" alt="JS" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="Postgresql" width="25px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"/>
 <a href="https://docs.python.org/3.11/">
-  <img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"/>
+  <img align="left" alt="Python icon" width="30px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"/>
+</a>
+<a href="https://fr.react.dev/">
+  <img align="left" alt="React icon" width="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png"/>
 </a>
 <br>
 <br>
