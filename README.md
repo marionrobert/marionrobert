@@ -29,8 +29,10 @@
 
 
 
-
-<h1 align="center" style="margin-top: 200px;"> Hello👋, I'm Marion 🙂 </h1>
+<br>
+<br>
+<br>
+<h1 align="center"> Hello👋, I'm Marion 🙂 </h1>
 
 
 <p>🔎 I'm looking for a job as Full Stack Web developper </p>
