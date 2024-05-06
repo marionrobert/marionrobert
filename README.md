@@ -1,7 +1,7 @@
 <h1 align="center"> Bonjour👋, moi c'est Marion 🙂 </h1>
 
 
-<p>🔎 Je recherche une job en tant que Conceptrice Développeuse web</p>
+<p>🔎 Je recherche une job en tant que Développeuse Full-stack</p>
 <p>🌱 Actuellement, je continue mon apprentissage sur JS, React, Ruby on Rails, Python, Google Cloud et les services de AWS </p>
 <p>📧 Vous pouvez me contacter à l'adresse suivante : mrobert148@gmail.com </p>
 <br>
